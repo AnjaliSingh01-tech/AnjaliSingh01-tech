@@ -21,4 +21,4 @@
 
 ## Connect with Me
 LinkedIn: https://www.linkedin.com/in/anjali-singh-61784a307
-Email: anjalisingh3380552gmail.com
+Email: anjalisingh338055@gmail.com
