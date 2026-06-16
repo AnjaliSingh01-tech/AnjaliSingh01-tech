@@ -1,6 +1,6 @@
 # Hi, I'm Anjali Singh 👋
 
-🎓 B.Tech Student
+🎓 B.C.A Student
 💻 Full Stack Web Developer
 🌱 Currently learning MERN Stack
 🚀 Interested in Software Development and Web Development
@@ -11,13 +11,14 @@
 - JavaScript
 - React
 - Node.js
-- MongoDB
+- MySQL
 - Git & GitHub
 
 ## Projects
 - Alumni Portal
 - CampusIQ
 - Portfolio Website
+- Expense Tracker
 
 ## Connect with Me
 LinkedIn: https://www.linkedin.com/in/anjali-singh-61784a307
