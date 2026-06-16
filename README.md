@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Anjali Singh 👋
 
-<!--
-**AnjaliSingh01-tech/AnjaliSingh01-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
+💻 Full Stack Web Developer
+🌱 Currently learning MERN Stack
+🚀 Interested in Software Development and Web Development
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Alumni Portal
+- CampusIQ
+- Portfolio Website
+
+## Connect with Me
+LinkedIn: your-link
+Email: your-email
