@@ -20,5 +20,5 @@
 - Portfolio Website
 
 ## Connect with Me
-LinkedIn: your-link
-Email: your-email
+LinkedIn: https://www.linkedin.com/in/anjali-singh-61784a307
+Email: anjalisingh3380552gmail.com
