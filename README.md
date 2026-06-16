@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/AnjaliSingh01-tech/AnjaliSingh01-tech/main/github-banner.png" />
+
 # Hi, I'm Anjali Singh 👋
 
 🎓 B.C.A Student
