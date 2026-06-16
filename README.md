@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AnjaliSingh01-tech/AnjaliSingh01-tech/main/github-banner.png" />
+<img src="https://raw.githubusercontent.com/AnjaliSingh01-tech/AnjaliSingh01-tech/main/github-ChatGPT Image Jun 16, 2026, 09_24_10 AM.png" />
 
 # Hi, I'm Anjali Singh 👋
 
